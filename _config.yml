@@ -22,14 +22,14 @@ social:
 
 # This is Search Engine Optimization. It'll help your website look better on search.
 seo:
-  title:       "Example Hacks | 5/6 August 2016"
-  description: "This is a sample hackathon website that you can use by following instructions on GitHub."
-  image:       "https://prime.mlh.io/img/logos/mlh-prime-color.svg"
+  title:       "Data Leauge | 5/6 November 2016"
+  description: "University of Maryland iSchool Hackathon""
+  image:       "umd.jpg"
 
 # Event information.
 event:
-  name:        "Example Hacks"
-  description: "This is a sample hackathon website that you can use by following instructions on GitHub."
+  name:        "Data League"
+  description: "University of Maryland iSchool Hackathon"
   date:        "5 & 6 August 2016"
   location:    "Holmdel, NJ, United States"
 
