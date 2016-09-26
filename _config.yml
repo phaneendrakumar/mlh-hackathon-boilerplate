@@ -31,7 +31,7 @@ event:
   name:        "Data League"
   description: "University of Maryland iSchool Hackathon"
   date:        "5 & 6 August 2016"
-  location:    "Holmdel, NJ, United States"
+  location:    "College Park, MD, United States"
 
   trust_badge:
     year:   "2017"  # season year
